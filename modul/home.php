@@ -6,7 +6,8 @@ class Home{
         <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
-                    <h1 class="title">Pelatihan Berkualitas, Harga Bersahabat</h1>
+                    <h1 cl
+                    ass="title">Pelatihan Berkualitas, Harga Bersahabat</h1>
                     <h3 class="subtitle">Pelatihan Intensif Persiapan  OSN-P 2022 Jenjang SMA</h3>
                         <p>"Program pelatihan selama 1 bulan bersama tutor medalis olimpiade sains Internasional/Nasional 
                         dalam rangka mempersiapkan peserta OSN-P SMA 2022 untuk berkompetisi melalui pelatihan berbasis penguasaan talenta, 
@@ -17,7 +18,7 @@ class Home{
                     </div>
                 </div>
             </div>
-    </div>a';
+    </div>';
     }
     public function main(){
     $this->beranda();
