@@ -1,0 +1,73 @@
+
+
+body{
+    margin:0;
+    font-family: 'Asap Condensed', sans-serif;
+    font-size:19pt;
+    background-color:#f2f2f2;
+    font-weight:500;
+    color:#2C2724;
+}
+
+.mainNavbar{
+    background: #FFFFFF!important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)!important;
+    border-radius: 10px!important;
+    font-family:'Comfortaa', cursive;
+    font-weight:600;
+    line-height:1.5em;
+}
+
+.logo{
+    width:100px;
+    transition:0.1s ease-in;
+}
+
+.title{
+    color:#1A5694;
+    font-weight:bolder;
+}
+.subtitle{
+    color:#1A5694;
+}
+h1{
+    font-size:29pt;
+}
+h2{
+    font-size:27pt;
+}
+h3{
+    font-size:25pt;
+}
+h4{
+    font-size:23pt;
+}
+h5{
+    font-size:21pt;
+}
+p{
+    line-height:1.7em;
+}
+.nav-item{
+    transition:0.1s ease-in-out;
+}
+.nav-item:hover{
+    padding:0.5px;
+    margin-top:-0.3px;
+    font-weight:700;
+}
+.logo:hover{
+    padding:3px;
+    opacity:80%;
+}
+
+@media(min-width:768px){
+    .beranda{
+        margin-top:300px;
+    }
+   .navbar-brand{
+       border-right:4px solid #000000;
+;
+
+   }
+}
