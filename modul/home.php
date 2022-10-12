@@ -17,7 +17,7 @@ class Home{
                     </div>
                 </div>
             </div>
-    </div>';
+    </div>a';
     }
     public function main(){
     $this->beranda();
