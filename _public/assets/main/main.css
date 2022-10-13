@@ -3,7 +3,7 @@
 body{
     margin:0;
     font-family: 'Asap Condensed', sans-serif;
-    font-size:19pt;
+    font-size:16pt;
     background-color:#f2f2f2;
     font-weight:500;
     color:#2C2724;
@@ -17,7 +17,14 @@ body{
     font-weight:600;
     line-height:1.5em;
 }
+.text-kecil{
+    font-size:15pt;
+}
 
+.text-shred{
+    color:#ffff;
+    opacity:80%;
+}
 .logo{
     width:100px;
     transition:0.1s ease-in;
@@ -31,19 +38,19 @@ body{
     color:#1A5694;
 }
 h1{
-    font-size:29pt;
-}
-h2{
-    font-size:27pt;
-}
-h3{
     font-size:25pt;
 }
-h4{
+h2{
     font-size:23pt;
 }
+h3{
+    font-size:20pt;
+}
+h4{
+    font-size:18pt;
+}
 h5{
-    font-size:21pt;
+    font-size:16pt;
 }
 p{
     line-height:1.7em;
@@ -60,10 +67,22 @@ p{
     padding:3px;
     opacity:80%;
 }
+.footer{
+    margin-top:50px;
+    background-color:#05294d;
+    width:100%;
+    height:auto;
+    bottom:0;
+    padding-top:20px;
+}
 
+.img-carou{
+    width:100%;
+    height:500px;
+}
 @media(min-width:768px){
     .beranda{
-        margin-top:300px;
+        margin-top:150px;
     }
    .navbar-brand{
        border-right:4px solid #000000;

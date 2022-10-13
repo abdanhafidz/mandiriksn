@@ -4,7 +4,7 @@
 // +-- Konfigurasi Utama --+
 // Please Donate Me https://abdanhafidz.com/donate
 date_default_timezone_set('Asia/Jakarta');//setting zona waktu
-define('domain','http://localhost/mandiriosn');//setting domain
+define('domain','http://localhost/mandiriksn');//setting domain
 define('modul',@url_basis(2));//setting index modul
 define('act',@url_basis(3));//setting index act
 define('dataurl',@url_basis(4));//setting index dataurl
