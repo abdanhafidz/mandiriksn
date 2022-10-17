@@ -1,4 +1,5 @@
 <title>Mandiri OSN</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <link rel="stylesheet" type="text/css" href="<?= domain ?>/_public/assets/plugin/boostrap/main.min.css"/>
 <link rel="stylesheet" type="text/css" href="<?= domain ?>/_public/assets/main/main.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com">

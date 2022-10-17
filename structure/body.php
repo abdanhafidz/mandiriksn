@@ -12,5 +12,11 @@ $main->navbar();
          case "":
                 $main->home();
             break;
+        case "artikel":
+                $main->berita();
+            break;
+        case "program":
+                $main->program();
+            break;
      }
 ?>

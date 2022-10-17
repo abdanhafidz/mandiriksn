@@ -16,6 +16,8 @@ include 'fondasi/function/PHP/main.php';
 include 'config/__main.inc.php';
 include 'modul/navbar.php';
 include 'modul/home.php';
+include 'modul/berita.php';
+include 'modul/program.php';
 include 'modul/all.php';
 
 
