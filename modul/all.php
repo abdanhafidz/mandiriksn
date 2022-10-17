@@ -11,7 +11,17 @@ class module {
 
     }
     public function home(){
-        $home = new Home();
+        $home = new Home;
         $home->main();
     }
+    public function berita(){
+        $berita = new Berita;
+        $berita->main();
+    }
+    public function program(){
+        $program = new Program;
+        $program->main();
+    }
 }
+
+Dengklek Lover
